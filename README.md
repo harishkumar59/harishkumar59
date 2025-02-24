@@ -17,7 +17,7 @@
 
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash7375&layout=compact)](https://github.com/harishkumar59/harishkumar59)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harishkumar59&layout=compact)](https://github.com/harishkumar59/harishkumar59)
  </p>
   
 
