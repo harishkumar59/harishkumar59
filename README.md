@@ -17,9 +17,9 @@
 
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash7375&layout=compact)](https://github.com/avinash7375/avinash7375)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash7375&layout=compact)](https://github.com/harishkumar59/harishkumar59)
  </p>
   
 
-[![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinash7375)](https://github.com/avinash7375/avinash7375)
+[![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=harishkumar59)](https://github.com/harishkumar59/harishkumar59)
 
