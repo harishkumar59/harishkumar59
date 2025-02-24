@@ -4,7 +4,11 @@
 
 <h1> About Me </h1>
 
-<img src="[https://source.unsplash.com/1200x400/?coding](https://www.google.com/imgres?q=coding%20images&imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fprogramming-code-icon-abstract-robot-holding-programming-code-symbol-hand-coding-background_127544-1269.jpg%3Fsemt%3Dais_hybrid&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcoding&docid=zrHSIpJey31EsM&tbnid=DvrGanh6xsx3JM&vet=12ahUKEwimk-Dm2NuLAxVxk1YBHWRNCXAQM3oECBYQAA..i&w=626&h=352&hcb=2&ved=2ahUKEwimk-Dm2NuLAxVxk1YBHWRNCXAQM3oECBYQAA)" alt="Coding Image">
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF">
+</p>
 
 <p>
 <b>Ask Me Questions about</b>
