@@ -2,11 +2,10 @@
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{harishkumar59}/count.svg) -->
 
----
+<!-- ---  👋-->
 
-#  I'm Harish 👋
-
-🎓 Computer Science Student | 💻 Developer | 🚀 AI Enthusiast
+#  I'm Harish 
+🎓 Computer Science Student | 💻Full stack Developer | 🚀 AI Enthusiast
 
 ---
 
