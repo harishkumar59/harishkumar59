@@ -4,7 +4,7 @@
 
 ---
 
-# Hi, I'm Harish 👋
+#  I'm Harish 👋
 
 🎓 Computer Science Student | 💻 Developer | 🚀 AI Enthusiast
 
